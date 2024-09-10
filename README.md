@@ -12,18 +12,20 @@ Hvilke typer er velegnede til at repræsentere en måned?
 4. Beskriv hvad det er I observerer?
 ## 5.5 Casting 
 Når vi godt vil konvertere mellem int værdier og long værdier skal der udføres et cast. Men, hvornår er det at dette cast skal gøres eksplicit, og hvornår må det være implicit?
-1. Hvorved adskilder int og long sig?
-2. Prøv at skrive et program der (i) erklærer i som en int variabel, (ii) tildeler den en værdi, (iii) erklærer l som en long variabel, (iv) tildeler værdien af i til l, og (v) slutteligt tildeler værdien af l til i.
-3. Eksperimentér med hvor det er nødvendigt at have eksplicitte casts.
-4. Gør nu det samme med en float variabel f og en double variabel d.
-5. Eksperimentér igen med hvor det er nødvendigt at have eksplicitte casts.
-6. Afhænger resultatet af disse eksperimenter af den værdi som I initielt tildeler den første variabel?
+- Hvorved adskilder int og long sig?
+- Prøv at skrive et program der (i) erklærer i som en int variabel, (ii) tildeler den en værdi, (iii) erklærer l som en long variabel, (iv) tildeler værdien af i til l, og (v) slutteligt tildeler værdien af l til i.
+- Eksperimentér med hvor det er nødvendigt at have eksplicitte casts.
+- Gør nu det samme med en float variabel f og en double variabel d.
+- Eksperimentér igen med hvor det er nødvendigt at have eksplicitte casts.
+- Afhænger resultatet af disse eksperimenter af den værdi som I initielt tildeler den første variabel?
 
 # 6 Expressions
 ## 6.1 Definition
 Hvad er et expression?
 ## 6.2 Tildeling
-Er en tildeling (af en værdi til en variabel) et expression? Hvordan tester I en hypotese om dette?
+Er en tildeling (af en værdi til en variabel) et expression.
+
+Hvordan tester I en hypotese om dette?
 ## 6.3 Expression vs Statement 
 Hvad er forskellen på et expression og et statement?
 
@@ -36,18 +38,17 @@ Skriv et program der udregner og udskriver omkredsen (2 · π · r) af tre cirkl
 Skriv et program, hvori
 1. En temperatur angives i Celcius via en variabel.
 2. Denne temperatur konverteres til Fahrenheit og gemmes i en anden variabel.
-
-    Formel: TF = 32 + 9/5TC
-
+- Formel: TF = 32 + 9/5 TC
 3. Konverteringen udskrives på en passende måde.
 ## 7.4 Epoch
 Skriv et program hvori
 1. Et antal sekunder siden et bestemt tidspunkt (fx 1. Januar 1970) gemmes i en variabel. Givet en enighed om udgangspunktet (1. Januar 1970), kan denne variabel bruges som et tidsstempel.
 2. Konvertér dette tal til et helt antal år (lad os antage at der er 365 dage på et år) og et antal hele dage indenfor det sidste år.
-   På denne måde kan vi konvertere dette tidsstempel til noget der giver mere mening for mennesker: En kombination af et årstal og en dag. Dagen har da en værdi mellem 0 og 364 (begge inklusive).
-   Idéelt set ville vi også have måneder med (så vi får en dag-måned-år dato), men måneder er ikke lige lange og det vil vi helst undgå at skulle håndtere i denne opgave.
-   Samlet skal de to tal altså være indenfor 24 timer af udgangspunktet.
+- På denne måde kan vi konvertere dette tidsstempel til noget der giver mere mening for mennesker: En kombination af et årstal og en dag. Dagen har da en værdi mellem 0 og 364 (begge inklusive).
+- Idéelt set ville vi også have måneder med (så vi får en dag-måned-år dato), men måneder er ikke lige lange og det vil vi helst undgå at skulle håndtere i denne opgave.
+- Samlet skal de to tal altså være indenfor 24 timer af udgangspunktet.
 4. Udskriv disse to tal.
+
 Verificér at programmet virker.
 ## 7.5 Inkrementering af Måned
 Skriv et program, hvori
@@ -58,47 +59,28 @@ Skriv et program, hvori
 5. Udskriv variablens værdi.
 6. Forøg værdien af denne variabel med en halv.
 7. Udskriv variablens værdi.
+
 Få dette program til at oversætte, kør det og beskriv hvad du observerer.
+
 Forklar hvorfor programmet opfører sig som det gør.
 ## 7.6 Værdi vs Variabel
 Hvad er forholdet mellem en værdi og en variabel?
 ## 7.7 Daglige Differencer
 Skriv et program, der givet 7 dagstemperaturer, udregner og udskriver temperaturdifferencen mellem alle to på hinanden følgende dage (dvs. Tirsdag-Mandag, Onsdag-Tirsdag . . . Søndag-Lørdag).
 Dagstemperaturerne kunne være:
-1. Mandag: 21.5
-2. Tirsdag: 23.7
-3. Onsdag: 19.6
-4. Torsdag: 22.5
-5. Fredag: 25.3
-6. Lørdag: 21.7
-7. Søndag: 18.9
+- Mandag: 21.5
+- Tirsdag: 23.7
+- Onsdag: 19.6
+- Torsdag: 22.5
+- Fredag: 25.3
+- Lørdag: 21.7
+- Søndag: 18.9
 Hvorfor regner den forkert?
 ## 7.8 Gennemsnitlig Alder
-Betragt følgende program:
-int ada_lovelace = 36; // https://en.wikipedia.org/wiki/Ada_Lovelace
-int dennis_ritchie = 70; // https://en.wikipedia.org/wiki/Dennis_Ritchie
-int grace_hopper = 85; // https://en.wikipedia.org/wiki/Grace_Hopper
-int hedy_lamarr = 85; // https://en.wikipedia.org/wiki/Hedy_Lamarr
-int edsger_dijkstra = 72; // https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
-int douglas_engelbart = 88; // https://en.wikipedia.org/wiki/Douglas_Engelbart
-float male_avg = (float)(dennis_ritchie + edsger_dijkstra + douglas_engelbart) / 3;
-float female_avg = (float)(ada_lovelace + grace_hopper + hedy_lamarr) / 3;
-float avg = (male_avg + female_avg) / 2;
-float diff = male_avg - female_avg;
-Console.Write("Average lifespan of a male computer scientist: ");
-Console.WriteLine(male_avg);
-Console.Write("Average lifespan of a female computer scientist: ");
-Console.WriteLine(female_avg);
-Console.Write("Average lifespan of a computer scientist: ");
-Console.WriteLine(avg);
-Console.Write("Males live this much longer than females: ");
-Console.WriteLine(diff);
+Betragt følgende program.
+S
 Udfør programmet. Hvad sker der?
+
 Skriv nu en tekst på dansk hvor I ved hjælp af fagtermer forklarer hvad der sker. Sørg for at denne tekst er grundig nok til at en programmør kan genkonstruere ovenstående kode.
 ## 7.9 Printf
-Undersøg hvordan følgende stykke kode fungerer ved at modificere indholdet af strengen i den sidste linje:
-int i = 42;
-long l = 56;
-float f = 3.14159F;
-double d = 3.14159*10;
-Console.WriteLine(string.Format("i={0} l={1,4} f={2} d={3,6:F2}", i, l, f, d));
+Undersøg hvordan følgende stykke kode fungerer ved at modificere indholdet af strengen i den sidste linje.S
