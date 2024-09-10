@@ -78,8 +78,10 @@ Dagstemperaturerne kunne være:
 Hvorfor regner den forkert?
 ## 7.8 Gennemsnitlig Alder
 Betragt følgende program.
-S
+
+
 Udfør programmet. Hvad sker der?
+
 
 Skriv nu en tekst på dansk hvor I ved hjælp af fagtermer forklarer hvad der sker. Sørg for at denne tekst er grundig nok til at en programmør kan genkonstruere ovenstående kode.
 ## 7.9 Printf
