@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises\\Øvelser.csproj": {}
+    "C:\\Users\\DBBRJ\\Documents\\GitHub\\Oop\\Modul-1.1-Primitive_Typer\\Exercises_5.1-5.3\\Øvelser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises\\Øvelser.csproj": {
+    "C:\\Users\\DBBRJ\\Documents\\GitHub\\Oop\\Modul-1.1-Primitive_Typer\\Exercises_5.1-5.3\\Øvelser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises\\Øvelser.csproj",
+        "projectUniqueName": "C:\\Users\\DBBRJ\\Documents\\GitHub\\Oop\\Modul-1.1-Primitive_Typer\\Exercises_5.1-5.3\\Øvelser.csproj",
         "projectName": "Øvelser",
-        "projectPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises\\Øvelser.csproj",
+        "projectPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\Oop\\Modul-1.1-Primitive_Typer\\Exercises_5.1-5.3\\Øvelser.csproj",
         "packagesPath": "C:\\Users\\DBBRJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises\\obj\\",
+        "outputPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\Oop\\Modul-1.1-Primitive_Typer\\Exercises_5.1-5.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DBBRJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
