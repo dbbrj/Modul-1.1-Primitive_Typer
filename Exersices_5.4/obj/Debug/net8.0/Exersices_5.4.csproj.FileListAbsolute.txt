@@ -1,0 +1,15 @@
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.AssemblyInfoInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.AssemblyInfo.cs
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.csproj.CoreCompileInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.sourcelink.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\bin\Debug\net8.0\Exersices_5.4.exe
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\bin\Debug\net8.0\Exersices_5.4.deps.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\bin\Debug\net8.0\Exersices_5.4.runtimeconfig.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\bin\Debug\net8.0\Exersices_5.4.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\bin\Debug\net8.0\Exersices_5.4.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\refint\Exersices_5.4.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\Exersices_5.4.genruntimeconfig.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exersices_5.4\obj\Debug\net8.0\ref\Exersices_5.4.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Øvelser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b2901cb2ea8fcdcc491c95967fdb3302a4192f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2875afa282ea3a3e6df366b824e3234a52b7c2cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Øvelser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Øvelser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
