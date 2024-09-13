@@ -1,0 +1,15 @@
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\bin\Debug\net8.0\Exercise_5_4.exe
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\bin\Debug\net8.0\Exercise_5_4.deps.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\bin\Debug\net8.0\Exercise_5_4.runtimeconfig.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\bin\Debug\net8.0\Exercise_5_4.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\bin\Debug\net8.0\Exercise_5_4.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.AssemblyInfoInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.AssemblyInfo.cs
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.csproj.CoreCompileInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.sourcelink.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\refint\Exercise_5_4.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\Exercise_5_4.genruntimeconfig.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_5_4\obj\Debug\net8.0\ref\Exercise_5_4.dll
