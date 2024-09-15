@@ -26,7 +26,6 @@ Når vi godt vil konvertere mellem int værdier og long værdier skal der udfør
 Hvad er et expression?
 ## 6.2 Tildeling
 Er en tildeling (af en værdi til en variabel) et expression.
-
 Hvordan tester I en hypotese om dette?
 ## 6.3 Expression vs Statement 
 Hvad er forskellen på et expression og et statement?

@@ -1,0 +1,13 @@
+﻿Console.WriteLine();
+Console.WriteLine("Hello, World!");
+Console.WriteLine();
+Console.WriteLine("An expression is a piece of code that evaluate to an value");
+Console.WriteLine();
+Console.WriteLine("An example coud be the following ");
+double price = 599.95;
+double budget = 1000.0;
+bool requiredReading = true;
+bool shouldBuy = price < budget && requiredReading;
+Console.WriteLine(shouldBuy);
+Console.WriteLine();
+Console.WriteLine("The diference between expressions and statements is that a statement is defining a value, whereas an expresion can be evaluatet to a value");

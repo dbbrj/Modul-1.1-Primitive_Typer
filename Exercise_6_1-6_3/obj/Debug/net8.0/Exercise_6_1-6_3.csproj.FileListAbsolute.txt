@@ -1,0 +1,15 @@
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.AssemblyInfoInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.AssemblyInfo.cs
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.csproj.CoreCompileInputs.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.sourcelink.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\bin\Debug\net8.0\Exercise_6_1-6_3.exe
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\bin\Debug\net8.0\Exercise_6_1-6_3.deps.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\bin\Debug\net8.0\Exercise_6_1-6_3.runtimeconfig.json
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\bin\Debug\net8.0\Exercise_6_1-6_3.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\bin\Debug\net8.0\Exercise_6_1-6_3.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\refint\Exercise_6_1-6_3.dll
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.pdb
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\Exercise_6_1-6_3.genruntimeconfig.cache
+C:\Users\DBBRJ\Documents\GitHub\OOP\Modul-1.1-Primitive_Typer\Exercise_6_1-6_3\obj\Debug\net8.0\ref\Exercise_6_1-6_3.dll
