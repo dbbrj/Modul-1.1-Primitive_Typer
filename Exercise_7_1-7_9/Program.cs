@@ -1,0 +1,14 @@
+﻿double pi=3.14;
+double r;
+r=1;
+Console.WriteLine("r=" + r +" -> area = " + (pi * r * r));
+Console.WriteLine();
+r=3;
+Console.WriteLine("r=" + r +" -> area = " + (pi * r * r));
+Console.WriteLine();
+r=5;
+Console.WriteLine("r=" + r +" -> area = " + (pi * r * r));
+Console.WriteLine();
+r=1;
+Console.WriteLine("r=" + r +" -> circumference = " + (2 * pi * r));
+Console.WriteLine();
