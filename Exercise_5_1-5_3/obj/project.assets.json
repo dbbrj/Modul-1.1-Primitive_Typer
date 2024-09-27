@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises-5.1-5.3\\Exercise_5_1-5_3\\Exersise_5_1-5_3.csproj",
+      "projectUniqueName": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercise_5_1-5_3\\Exersise_5_1-5_3.csproj",
       "projectName": "Exersise_5_1-5_3",
-      "projectPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises-5.1-5.3\\Exercise_5_1-5_3\\Exersise_5_1-5_3.csproj",
+      "projectPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercise_5_1-5_3\\Exersise_5_1-5_3.csproj",
       "packagesPath": "C:\\Users\\DBBRJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercises-5.1-5.3\\Exercise_5_1-5_3\\obj\\",
+      "outputPath": "C:\\Users\\DBBRJ\\Documents\\GitHub\\OOP\\Modul-1.1-Primitive_Typer\\Exercise_5_1-5_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DBBRJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
